@@ -6,3 +6,5 @@ Eu sou o **Cod**! No meu tempo livre, eu gosto de:
 * 📚 **Ler**
 * 🛠️ **Fazer projetos aleatórios**
 * 📝 **Estudar para competições**
+
+# :)
